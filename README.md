@@ -1,3 +1,1 @@
-# SSHark
-
-SSHark (Shell SHark)
+# SHHark (Shell SHark)
